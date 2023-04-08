@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeaMenu
-- 👀 I’m interested in make people eats better and improving choosing experience with AI
+- 👀 I’m interested in make people eat better and improving choosing experience with AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on React, NodeJS, Rust and Python Developers
 - 📫 How to reach me dev@meamenu.com
